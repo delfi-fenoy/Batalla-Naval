@@ -26,4 +26,4 @@ Fue desarrollado en equipo como parte de una actividad académica, enfocándonos
 
 ## 👥 Trabajo en equipo
 
-El proyecto fue desarrollado en conjunto por **Juan Bercovsky**, **Delfina Fenoy Rivas** e **Ian Francano**, fomentando la colaboración, la división de tareas y la planificación conjunta.
+El proyecto fue desarrollado en conjunto por **Juan Bercovsky**, **Delfina Fenoy Rivas** y **Ian Francano**, fomentando la colaboración, la división de tareas y la planificación conjunta.
