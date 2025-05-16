@@ -27,7 +27,3 @@ Fue desarrollado en equipo como parte de una actividad académica, enfocándonos
 ## 👥 Trabajo en equipo
 
 El proyecto fue desarrollado en conjunto por **Juan Bercovsky**, **Delfina Fenoy Rivas** e **Ian Francano**, fomentando la colaboración, la división de tareas y la planificación conjunta.
-
-## 📄 Manual de usuario
-
-Incluye un [manual de usuario en PDF](./Canva%20-%20Manual%20de%20Usuario.pdf), con imágenes y explicaciones detalladas sobre cada funcionalidad del sistema.
