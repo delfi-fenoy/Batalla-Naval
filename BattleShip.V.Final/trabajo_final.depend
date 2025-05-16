@@ -1,0 +1,445 @@
+# depslib dependency file v1.0
+1717032390 source:c:\facultad\programacion\programación 1\trabajo_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"cuentas.h"
+	"menu.h"
+
+1716568595 c:\facultad\programacion\programación 1\trabajo_final\cuentas.h
+
+1717032378 source:c:\facultad\programacion\programación 1\trabajo_final\cuentas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cuentas.h"
+
+1717032109 c:\facultad\programacion\programación 1\trabajo_final\menu.h
+
+1717032109 source:c:\facultad\programacion\programación 1\trabajo_final\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<stdio.h>
+	"cuentas.h"
+	"menu.h"
+
+1717039326 source:c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v8\cuentas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cuentas.h"
+
+1716568595 c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v8\cuentas.h
+
+1717045886 source:c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v8\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"cuentas.h"
+	"menu.h"
+	"juego.h"
+
+1717038058 c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v8\menu.h
+
+1717045886 c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v8\juego.h
+
+1717039326 source:c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v8\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"cuentas.h"
+	"menu.h"
+	"juego.h"
+
+1717046036 source:c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v8\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"cuentas.h"
+	"juego.h"
+
+1717039326 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v9\cuentas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cuentas.h"
+
+1716568595 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v9\cuentas.h
+
+1717123013 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"cuentas.h"
+	"menu.h"
+	"juego.h"
+
+1717122661 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v9\menu.h
+
+1717276247 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v9\juego.h
+
+1717122944 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v9\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"cuentas.h"
+	"menu.h"
+	"juego.h"
+
+1717276062 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v9\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"cuentas.h"
+	"juego.h"
+
+1717303659 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v10\cuentas.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+	"cuentas.h"
+
+1716568595 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v10\cuentas.h
+
+1717304507 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v10\juego.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"menu.h"
+	"cuentas.h"
+	"juego.h"
+
+1717303969 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v10\juego.h
+
+1717297863 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	<time.h>
+	<ctype.h>
+	"cuentas.h"
+	"menu.h"
+	"juego.h"
+
+1717122661 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v10\menu.h
+
+1717303571 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v10\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	"cuentas.h"
+	"menu.h"
+	"juego.h"
+
+1709740322 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v10\pila.c
+	"pila.h"
+
+1710783938 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v10\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1717521567 source:c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v10\cuentas.c
+	"cuentas.h"
+
+1717520893 c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v10\menu.h
+	"juego.h"
+
+1717513249 c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v10\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1717510449 source:c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v10\juego.c
+	"juego.h"
+
+1710783938 c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v10\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1717510449 c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v10\juego.h
+	"pila.h"
+	"cuentas.h"
+
+1717523976 source:c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v10\main.c
+	"menu.h"
+
+1717523753 source:c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v10\menu.c
+	"menu.h"
+
+1717510308 source:c:\users\usuario\desktop\programacion\c\trabajo final\battleship.v10\pila.c
+	"pila.h"
+
+1717635170 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v11\cuentas.c
+	"cuentas.h"
+
+1717635228 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v11\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1717510449 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v11\juego.c
+	"juego.h"
+
+1717510449 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v11\juego.h
+	"pila.h"
+	"cuentas.h"
+
+1710783938 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v11\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1717819155 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v11\main.c
+	"menu.h"
+
+1717637301 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v11\menu.h
+	"juego.h"
+
+1717510308 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v11\pila.c
+	"pila.h"
+
+1717638465 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v11\menu.c
+	"menu.h"
+
+1718603988 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v12\cuentas.c
+	"cuentas.h"
+
+1718603491 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v12\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1718604124 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v12\juego.c
+	"juego.h"
+
+1718602717 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v12\juego.h
+	"pila.h"
+	"cuentas.h"
+
+1718565316 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v12\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718602024 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v12\main.c
+	"menu.h"
+
+1717637301 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v12\menu.h
+	"juego.h"
+
+1718603668 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v12\menu.c
+	"menu.h"
+
+1718582932 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v12\pila.c
+	"pila.h"
+
+1718697752 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v13\cuentas.c
+	"cuentas.h"
+
+1718684050 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v13\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1718697552 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v13\juego.c
+	"juego.h"
+
+1718685372 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v13\juego.h
+	"pila.h"
+	"cuentas.h"
+
+1718565316 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v13\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718691356 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v13\main.c
+	"menu.h"
+
+1718687032 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v13\menu.h
+	"juego.h"
+
+1718697994 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v13\menu.c
+	"menu.h"
+
+1718582932 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\battleship.v13\pila.c
+	"pila.h"
+
+1718712313 source:c:\users\delfi\downloads\battleship.v13-20240618t083101z-001\battleship.v13\cuentas.c
+	"cuentas.h"
+
+1718699518 c:\users\delfi\downloads\battleship.v13-20240618t083101z-001\battleship.v13\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1718711445 source:c:\users\delfi\downloads\battleship.v13-20240618t083101z-001\battleship.v13\juego.c
+	"juego.h"
+
+1718710923 c:\users\delfi\downloads\battleship.v13-20240618t083101z-001\battleship.v13\juego.h
+	"pila.h"
+	"cuentas.h"
+
+1718699517 c:\users\delfi\downloads\battleship.v13-20240618t083101z-001\battleship.v13\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718699518 source:c:\users\delfi\downloads\battleship.v13-20240618t083101z-001\battleship.v13\main.c
+	"menu.h"
+
+1718699518 c:\users\delfi\downloads\battleship.v13-20240618t083101z-001\battleship.v13\menu.h
+	"juego.h"
+
+1718711845 source:c:\users\delfi\downloads\battleship.v13-20240618t083101z-001\battleship.v13\menu.c
+	"menu.h"
+
+1718699518 source:c:\users\delfi\downloads\battleship.v13-20240618t083101z-001\battleship.v13\pila.c
+	"pila.h"
+
+1718714122 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\entrega\battleship.v.final\cuentas.c
+	"cuentas.h"
+
+1718699518 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\entrega\battleship.v.final\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1718699518 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\entrega\battleship.v.final\main.c
+	"menu.h"
+
+1718699518 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\entrega\battleship.v.final\menu.h
+	"juego.h"
+
+1718710923 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\entrega\battleship.v.final\juego.h
+	"pila.h"
+	"cuentas.h"
+
+1718699517 c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\entrega\battleship.v.final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718713395 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\entrega\battleship.v.final\menu.c
+	"menu.h"
+
+1718699518 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\entrega\battleship.v.final\pila.c
+	"pila.h"
+
+1718713126 source:c:\users\usuario\desktop\ \programacion\c\trabajo final - batalla naval\entrega\battleship.v.final\juego.c
+	"juego.h"
+
+1718719723 source:c:\users\delfi\downloads\battleship.v.final-20240618t134414z-001\battleship.v.final\cuentas.c
+	"cuentas.h"
+
+1718718291 c:\users\delfi\downloads\battleship.v.final-20240618t134414z-001\battleship.v.final\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1718720040 source:c:\users\delfi\downloads\battleship.v.final-20240618t134414z-001\battleship.v.final\juego.c
+	"juego.h"
+
+1718718291 c:\users\delfi\downloads\battleship.v.final-20240618t134414z-001\battleship.v.final\juego.h
+	"pila.h"
+	"cuentas.h"
+
+1718718291 c:\users\delfi\downloads\battleship.v.final-20240618t134414z-001\battleship.v.final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718718291 source:c:\users\delfi\downloads\battleship.v.final-20240618t134414z-001\battleship.v.final\main.c
+	"menu.h"
+
+1718718291 c:\users\delfi\downloads\battleship.v.final-20240618t134414z-001\battleship.v.final\menu.h
+	"juego.h"
+
+1718719407 source:c:\users\delfi\downloads\battleship.v.final-20240618t134414z-001\battleship.v.final\menu.c
+	"menu.h"
+
+1718718291 source:c:\users\delfi\downloads\battleship.v.final-20240618t134414z-001\battleship.v.final\pila.c
+	"pila.h"
+
+1726716843 source:c:\users\delfi\downloads\batalla naval - terminado\battleship.vfinal - terminado\battleship.v.final\cuentas.c
+	"cuentas.h"
+
+1718721793 c:\users\delfi\downloads\batalla naval - terminado\battleship.vfinal - terminado\battleship.v.final\cuentas.h
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+
+1718838494 source:c:\users\delfi\downloads\batalla naval - terminado\battleship.vfinal - terminado\battleship.v.final\juego.c
+	"juego.h"
+
+1718722920 c:\users\delfi\downloads\batalla naval - terminado\battleship.vfinal - terminado\battleship.v.final\juego.h
+	"pila.h"
+	"cuentas.h"
+
+1718718291 c:\users\delfi\downloads\batalla naval - terminado\battleship.vfinal - terminado\battleship.v.final\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1718718291 source:c:\users\delfi\downloads\batalla naval - terminado\battleship.vfinal - terminado\battleship.v.final\main.c
+	"menu.h"
+
+1718723009 c:\users\delfi\downloads\batalla naval - terminado\battleship.vfinal - terminado\battleship.v.final\menu.h
+	"juego.h"
+
+1718838693 source:c:\users\delfi\downloads\batalla naval - terminado\battleship.vfinal - terminado\battleship.v.final\menu.c
+	"menu.h"
+
+1718718291 source:c:\users\delfi\downloads\batalla naval - terminado\battleship.vfinal - terminado\battleship.v.final\pila.c
+	"pila.h"
+

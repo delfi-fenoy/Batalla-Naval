@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="juego.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="30353" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="6" />
+			<Collapse line="53" />
+			<Collapse line="100" />
+			<Collapse line="109" />
+			<Collapse line="152" />
+			<Collapse line="167" />
+			<Collapse line="216" />
+			<Collapse line="233" />
+			<Collapse line="251" />
+			<Collapse line="262" />
+			<Collapse line="309" />
+			<Collapse line="397" />
+			<Collapse line="452" />
+			<Collapse line="504" />
+			<Collapse line="537" />
+			<Collapse line="570" />
+			<Collapse line="600" />
+			<Collapse line="612" />
+			<Collapse line="625" />
+			<Collapse line="658" />
+			<Collapse line="697" />
+			<Collapse line="746" />
+			<Collapse line="780" />
+			<Collapse line="810" />
+			<Collapse line="823" />
+			<Collapse line="838" />
+			<Collapse line="855" />
+			<Collapse line="875" />
+			<Collapse line="906" />
+			<Collapse line="939" />
+		</Folding>
+	</File>
+	<File name="pila.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="691" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="cuentas.c" open="1" top="1" tabpos="7" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="23000" topLine="106" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="39" />
+			<Collapse line="68" />
+			<Collapse line="88" />
+			<Collapse line="129" />
+			<Collapse line="157" />
+			<Collapse line="192" />
+			<Collapse line="208" />
+			<Collapse line="269" />
+			<Collapse line="287" />
+			<Collapse line="302" />
+			<Collapse line="324" />
+			<Collapse line="377" />
+			<Collapse line="436" />
+			<Collapse line="477" />
+			<Collapse line="534" />
+			<Collapse line="544" />
+			<Collapse line="557" />
+			<Collapse line="582" />
+			<Collapse line="599" />
+			<Collapse line="625" />
+			<Collapse line="636" />
+			<Collapse line="652" />
+			<Collapse line="673" />
+			<Collapse line="714" />
+			<Collapse line="760" />
+			<Collapse line="778" />
+			<Collapse line="797" />
+			<Collapse line="809" />
+			<Collapse line="820" />
+			<Collapse line="835" />
+			<Collapse line="857" />
+			<Collapse line="870" />
+		</Folding>
+	</File>
+	<File name="juego.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="474" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="7" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="80" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="menu.h" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="5" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="4" topLine="5" />
+		</Cursor>
+	</File>
+	<File name="pila.c" open="0" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="14" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1069" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="3" />
+			<Collapse line="11" />
+			<Collapse line="18" />
+			<Collapse line="25" />
+			<Collapse line="30" />
+			<Collapse line="35" />
+			<Collapse line="49" />
+		</Folding>
+	</File>
+	<File name="menu.c" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="3" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="10907" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="15" />
+			<Collapse line="57" />
+			<Collapse line="145" />
+			<Collapse line="175" />
+			<Collapse line="262" />
+			<Collapse line="294" />
+		</Folding>
+	</File>
+	<File name="cuentas.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="4" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="34" topLine="27" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
